@@ -8,7 +8,7 @@
 1.2.x 源码分支：https://github.com/changmingxie/tcc-transaction/tree/master-1.2.x
 
 1.2.x 版本不向下兼容1.1.x，主要在声明tcc服务方法的注解有改变。1.2.x不同于1.1.x主要的地方在于发布服务时不再强制要求服务方法参数必须有TransactionContext参数，从而减少对业务代码的侵入。
-
+gekki
 
 新建分支并修改
 
