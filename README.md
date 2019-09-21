@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+我是B我修改了修改内容冲突测试
 
 使用指南1.1.x:https://github.com/changmingxie/tcc-transaction/wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.1.x
 
