@@ -1,0 +1,46 @@
+* [33mcommit f6a574f96e187557198191d96bcc016c14cee5f0[m
+[31m|[m Author: yang <yang.com>
+[31m|[m Date:   Sat Sep 21 16:32:28 2019 +0800
+[31m|[m 
+[31m|[m     add changes“
+[31m|[m  
+* [33mcommit 9d7683f52fdba101dd91da8364857722b013990c[m
+[31m|[m Author: yang <yang.com>
+[31m|[m Date:   Sat Sep 21 10:19:56 2019 +0800
+[31m|[m 
+[31m|[m     合并commit message
+[31m|[m     测试修改指定commit提交信息的命令
+[31m|[m     
+[31m|[m     move filename and modify commit message!
+[31m|[m  
+* [33mcommit 9f91c5007ce3cdd5c7467302187898e8740dc5b0[m
+  Author: yang <yang.com>
+  Date:   Sat Sep 21 10:08:40 2019 +0800
+  
+      add readme
+      
+      add dir and file
+  
+* [33mcommit 29aa1de0d5afe4f8922d493bd7f5ffce9acb778d[m
+[32m|[m Author: yang <yang.com>
+[32m|[m Date:   Sat Sep 21 11:29:00 2019 +0800
+[32m|[m 
+[32m|[m     modify file
+[32m|[m  
+* [33mcommit 0a83fe0a2b6d2dd41ac0c58d0b021738ecdbfa95[m
+[32m|[m Author: yang <yang.com>
+[32m|[m Date:   Sat Sep 21 11:25:59 2019 +0800
+[32m|[m 
+[32m|[m     new branch and modify
+[32m|[m    
+[32m|[m * [33mcommit 839805c4bde1f5cb0d2a51e38e5ef56fdd0331ac[m
+[32m|[m[32m/[m  Author: yang <yang.com>
+[32m|[m   Date:   Sat Sep 21 10:15:04 2019 +0800
+[32m|[m   
+[32m|[m       add dir and file
+[32m|[m  
+* [33mcommit 06d8f9b6e0a8ad1521a4ff0c4eb822305bf84c28[m
+  Author: yang <yang.com>
+  Date:   Sat Sep 21 10:08:40 2019 +0800
+  
+      add readme
