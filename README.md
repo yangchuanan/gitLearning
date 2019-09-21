@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 使用指南1.1.x:https://github.com/changmingxie/tcc-transaction/wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.1.x
 
@@ -49,3 +50,7 @@ tcc-transaction不和底层使用的rpc框架耦合，也就是使用doubbo,thri
 如有问题可以在本项目的github issues中提问。或是加微信:changmingxie，为便于识别，麻烦在备注中写下：名字＋所在公司名字＋是否线上使用，作者尽量回答疑问。 
 
 
+=======
+# gitLearning
+learn how to use git
+>>>>>>> github/master
