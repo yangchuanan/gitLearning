@@ -1,5 +1,6 @@
 我是B我修改了修改内容冲突测试
 
+我是A我修改了内容
 使用指南1.1.x:https://github.com/changmingxie/tcc-transaction/wiki/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.1.x
 
 1.1.x 源码分支：https://github.com/changmingxie/tcc-transaction/tree/master
